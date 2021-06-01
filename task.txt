@@ -1,0 +1,10 @@
+Web Scraping:
+Municipality County
+List of Municipality in Manchester
+10 municipality in manchester
+4 sports: basketball football Soccer  baseball
+Name, address, email, phone number
+Capture urls of each
+
+Municipality party
+Sports
